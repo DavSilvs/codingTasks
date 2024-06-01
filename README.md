@@ -10,7 +10,7 @@ Lastly, the program compares the accuraccy of the models.
 
 
 
-Lybrary installation
+Lybraries installation
 
 Run the following code on the terminal.
 
@@ -31,7 +31,9 @@ Run the following code on the terminal.
 
 Usage section
 
-- To run the code, click on the "Run" tab and click on "Run all cells". Proceed to navigate through the code.
+- To run the code, open the file in Jupyter Notebook, click on the "Run" tab and click on "Run all cells". Proceed to navigate through the code.
+- Alternatively, open the file in Google colab, click "Runtime" tab, followed by "Run all". You'll then be able to navigate through the program.
+- To run the code on VSCode, open the file with the software and click on the "Run all" tab.
 
 Heatmaps analyse correlation between variables:
 ![Screenshot 2024-06-01 094102](https://github.com/DavSilvs/codingTasks/assets/163030229/285465f3-88ac-4786-ad2c-016f1e6dc3cf)
