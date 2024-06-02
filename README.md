@@ -17,15 +17,18 @@ Run the following code on the terminal.
 - Instal PIP:
   - Download PIP: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
   - Install PIP: python get-pip.py
-- Install Pandas: pip install pandas
-- Install Numpy: pip install numpy
-- Install Matplotlib: pip install matplotlib
-- Install Seaborn: pip install seaborn
-- Install Scikit-learn on a virtual environment:
-  - python -m venv sklearn-env
-  - sklearn-env\Scripts\activate
+- Install Pandas:
+  - pip install pandas
+- Install Numpy:
+  - pip install numpy
+- Install Matplotlib:
+  - pip install matplotlib
+- Install Seaborn:
+  - pip install seaborn
+- Install Scikit-learn:
   - pip install -U scikit-learn
-- Install Tabulate: pip install tabulate
+- Install Tabulate:
+  - pip install tabulate
 
 
 
