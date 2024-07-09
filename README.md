@@ -5,7 +5,7 @@ The programs plots several decision trees (pruned and unpruned) with different p
 I've plotted a line graph of training and development accuracies and analysed it.
 The program, then, highlights the accuracy of the the final model.
 In the 2nd part of this coding task, I created a bagged model, a random forest and a boosted model for the Titanic dataset and tuned hyperparameters some parameters, to increase accuracy.
-The program aims to determine the featture that contributes the most for passenger survival.
+The program aims to determine the feature that contributes the most for passenger survival.
 Lastly, the program compares the accuraccy of the models.
 
 
