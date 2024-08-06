@@ -1,6 +1,6 @@
 # codingTasks
 
-In this program, I used the titanic.csv file to create a decision tree to predict the survival of passengers on the Titanic.
+In this program, I used the titanic.csv file to create a decision tree to predict the survival of Titanic passengers.
 The programs plots several decision trees (pruned and unpruned) with different parameters to compare their accuracies.
 I've plotted a line graph of training and development accuracies and analysed it.
 The program, then, highlights the accuracy of the final model.
